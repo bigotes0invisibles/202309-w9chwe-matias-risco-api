@@ -4,7 +4,7 @@
       "id": 1,
       "name": "spider man into the spider verse",
       "duration": "1:56:00",
-      "genre": ["Fantasy", "Action", "Superhero"],
+      "genres": ["Fantasy", "Action", "Superhero"],
       "mainProtagonist": "Miles Morales",
       "meme": "yesn't"
     },
@@ -13,7 +13,7 @@
       "name": "Interstellar",
       "meme": "yes",
       "duration": "2:49:00",
-      "genre": ["Drama", "Ciencia ficción"],
+      "genres": ["Drama", "Ciencia ficción"],
       "mainProtagonist": "Joseph Cooper."
     }
   ]

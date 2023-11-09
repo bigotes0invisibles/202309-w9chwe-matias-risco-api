@@ -19,6 +19,21 @@
       "mainProtagonist": "Joseph Cooper.",
       "watched": false,
       "image": "https://i.blogs.es/25fad9/714563181_preview_interstellar_voyage-3840x2160/450_1000.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ted",
+      "meme": "yes",
+      "duration": "1:46:00",
+      "genres": [
+        "Comedia cinematográfica",
+        "Cine de terror",
+        "Animación",
+        "Cine romántico"
+      ],
+      "mainProtagonist": "Ted",
+      "watched": false,
+      "image": "https://media.timeout.com/images/100538089/750/422/image.jpg"
     }
   ]
 }

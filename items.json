@@ -1,39 +1,16 @@
 {
-  "movies": [
+  "users": [
+    {
+      "id": 0,
+      "isFriend": true,
+      "name": "Manolo",
+      "lastName": "Comite"
+    },
     {
       "id": 1,
-      "name": "spider man into the spider verse",
-      "duration": "1:56:00",
-      "genres": ["Fantasy", "Action", "Superhero"],
-      "mainProtagonist": "Miles Morales",
-      "meme": "yesn't",
-      "watched": false,
-      "image": "https://images.mubicdn.net/images/film/252425/cache-880577-1691758931/image-w1280.jpg?size=400x"
-    },
-    {
-      "id": 2,
-      "name": "Interstellar",
-      "meme": "yes",
-      "duration": "2:49:00",
-      "genres": ["Drama", "Ciencia ficción"],
-      "mainProtagonist": "Joseph Cooper.",
-      "watched": false,
-      "image": "https://i.blogs.es/25fad9/714563181_preview_interstellar_voyage-3840x2160/450_1000.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Ted",
-      "meme": "yes",
-      "duration": "1:46:00",
-      "genres": [
-        "Comedia cinematográfica",
-        "Cine de terror",
-        "Animación",
-        "Cine romántico"
-      ],
-      "mainProtagonist": "Ted",
-      "watched": false,
-      "image": "https://media.timeout.com/images/100538089/750/422/image.jpg"
+      "isFriend": false,
+      "name": "Alpharius",
+      "lastName": "NotAlpharius"
     }
   ]
 }

@@ -4,13 +4,22 @@
       "id": 0,
       "isFriend": true,
       "name": "Manolo",
-      "lastName": "Comite"
+      "lastName": "Comite",
+      "image": "https://www.mypokecard.com/en/Gallery/my/galery/nJtUAVVeb13r.jpg"
     },
     {
       "id": 1,
       "isFriend": false,
       "name": "Alpharius",
-      "lastName": "NotAlpharius"
+      "lastName": "NotAlpharius",
+      "image": "https://i.pinimg.com/280x280_RS/f0/ab/9a/f0ab9a5dc18e6bc041dc01cee7952295.jpg"
+    },
+    {
+      "id": 2,
+      "isFriend": false,
+      "name": "ATLAS",
+      "lastName": "Gary",
+      "image": "https://static.wikia.nocookie.net/starcraft/images/a/a4/Adjutant_SC2_Head2.jpg/revision/latest/scale-to-width-down/710?cb=20100906202000"
     }
   ]
 }
